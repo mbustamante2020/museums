@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "940937324788",
+    "project_id": "pac52021",
+    "storage_bucket": "pac52021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940937324788:android:50f2f6ad3cc170c562d6a1",
+        "android_client_info": {
+          "package_name": "com.pac5.mbustama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940937324788-bt4ufr3cmeec8f4nlb46p6oha0ajlv81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Hs6EWfReyNgNjjW1BFReO6wCwkbi3zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940937324788-bt4ufr3cmeec8f4nlb46p6oha0ajlv81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "940937324788-ketbep4o2r0p8ohun6pr0dvnvs5cpd5q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pac5.mbustama"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
